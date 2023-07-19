@@ -10,7 +10,7 @@ Das Formular soll Informationen über potenzielle Kunden sammeln, insbesondere d
 Die Benutzeroberfläche soll der in Abbildung 1 dargestellten ähneln. Sie muss jedoch nicht exakt gleich aussehen.
 
 <p align="center">
-    <img src=img/img1.png height="600">
+    <img src="img/img1.png" height="600">
 </p>
 <p align="center">
     Abbildung 1: Eingabeformular
