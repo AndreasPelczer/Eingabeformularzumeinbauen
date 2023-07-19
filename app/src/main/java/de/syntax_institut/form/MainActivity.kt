@@ -33,10 +33,14 @@ class MainActivity : AppCompatActivity() {
         val resetBTN = findViewById<Button>(R.id.resetBTN)
         val ausgabeTV = findViewById<TextView>(R.id.ausgabeTV)
 
+
+
         resetBTN.setOnClickListener {
             vornameTE.text.clear()
             nachnameTE.text.clear()
             radioGroup.clearCheck()
+            hundeCB.isChecked = false
+            katzenCB.isChecked = false
 
         }
 
